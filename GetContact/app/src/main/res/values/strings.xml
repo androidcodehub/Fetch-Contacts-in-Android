@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetContact</string>
+
+    <string name="allow">Please allow to fetch contacts</string>
+</resources>
